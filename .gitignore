@@ -1,0 +1,31 @@
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore object files and build artifacts
+*.o
+*.obj
+*.ilk
+*.pdb
+*.dll
+*.so
+*.dylib
+
+# Ignore build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE specific files
+.vscode/
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
