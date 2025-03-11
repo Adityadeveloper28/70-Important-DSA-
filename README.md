@@ -2,7 +2,7 @@
 
 Welcome to the **70 Important DSA Problems** repository! This collection is designed to help you master Data Structures and Algorithms (DSA) with a curated set of essential problems, all implemented in C++. Whether you're preparing for coding interviews, improving your problem-solving skills, or just brushing up on your DSA knowledge, this repository is a valuable resource for you.
 
-![DSA](https://www.shutterstock.com/search/data-structures-%26-algorithms) <!-- Replace this URL with the actual image URL you choose -->
+![DSA](https://github.com/alidehkhodaei/data-structures-and-algorithms/blob/main/images/banner.png)
 
 ## Table of Contents
 
